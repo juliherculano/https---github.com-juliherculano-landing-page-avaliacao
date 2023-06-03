@@ -1,8 +1,8 @@
-## Landing Page - Avaliação
-
-Este é o repositório para a Landing Page escolhida dentre as 9 opções de template fornecidas pelo professor. Esta página foi desenvolvida como parte de um projeto acadêmico e tem como objetivo demonstrar as habilidades de desenvolvimento web do autor.
+# Landing Page - Avaliação
 
 ![Final result](imagens/final_result.png)
+
+Este é o repositório para a Landing Page escolhida dentre as 9 opções de template fornecidas pelo professor. Esta página foi desenvolvida como parte de um projeto acadêmico e tem como objetivo demonstrar as habilidades de desenvolvimento web do autor.
 
 ## Resumo:
 
