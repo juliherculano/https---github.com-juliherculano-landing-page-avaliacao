@@ -25,5 +25,5 @@ Este é o repositório para a Landing Page escolhida dentre as 9 opções de tem
 ## Autor:
 Juliana Herculano
 
-##Licença:
+## Licença:
 Este projeto é licenciado sob a Licença MIT.
